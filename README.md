@@ -7,6 +7,10 @@
 
 Crow Foodie is a tiny game for the [Playdate](https://play.date/) handheld, made with [Pulp](https://play.date/pulp/). You play as a crow trying out tasty snacks. This is version 2 of the game.
 
+## Download
+
+Download the game from the [v2.0.0 GitHub release](https://github.com/pacificpelican/crow-foodie/releases/tag/v2.0.0). To install it wirelessly, upload the downloaded `.pdx` or zipped `.pdx` on the [Playdate Sideload page](https://play.date/account/sideload). For USB installation or the Playdate Simulator, unzip the download if needed and open the `.pdx` itself.
+
 ## What’s in this repository
 
 - [`Crow-Foodie.pdx/`](Crow-Foodie.pdx/) is the built game, ready to run on Playdate. A `.pdx` is a bundle directory, not itself a ZIP file; this one contains its `pdxinfo` metadata, game data, and other built assets.
