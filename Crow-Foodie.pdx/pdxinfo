@@ -1,0 +1,9 @@
+name=Crow Foodie
+author=Daniel McKeown
+description=A tiny game made with Pulp
+bundleID=pulp.danielmckeown.crowfoodie
+version=2.0
+buildNumber=2
+imagePath=./
+pdxversion=30005
+buildtime=847257747
