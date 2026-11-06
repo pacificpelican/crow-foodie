@@ -1,4 +1,8 @@
-**Crow Foodie**
+<p align="center">
+  <img src="assets/crow-foodie-logo.svg" alt="Crow Foodie logo: a crow holding a piece of ravioli" width="420">
+</p>
+
+# Crow Foodie
 *created in 2023 by [Daniel McKeown](https://altaredwood.work)*
 
 - this game is for the [PlayDate](https://play.date/) platform made using the [Pulp](https://play.date/pulp/) tool
